@@ -3,7 +3,7 @@ This is homework 2 in NYCU Selected Topics in Visual Recognition Deep Learning c
 
 NOTIFICATION:
 Because the main code are too big, follow the link below to download it.
-https://drive.google.com/file/d/1hfQgn7VxykHxruJbK9Gq6MjynTPMalgv/view?usp=sharing
+https://drive.google.com/file/d/1ZUgQ14GAwxmisWLLFHIONfUuVF0z27EF/view?usp=sharing
 
 model weights link:
 https://drive.google.com/file/d/19BDS4q4flsyEAiyRenIpNlEqeUWAVTgz/view?usp=sharing
