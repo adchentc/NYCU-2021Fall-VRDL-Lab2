@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1NEXWWJoLRW9R4RpK9EYYvPfvFFDPRTEE/view?usp=shari
 # Requirement
 * Download and unzip 'datasets_final.zip'.
 * There will include './my_datasets/images' and './my_datasets/labels' 
-* Download and unzip the main code: https://drive.google.com/file/d/1hfQgn7VxykHxruJbK9Gq6MjynTPMalgv/view?usp=sharing
+* Download and unzip the main code: https://drive.google.com/file/d/120wryn8IRAiVxciyYO6KGjOj7Es5HzOa/view?usp=sharing
 
 # Train and Valid
 You can customize your own batch size and epochs.
