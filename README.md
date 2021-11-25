@@ -43,3 +43,6 @@ The code not only trains, but also valid and test the model. You can run the mod
 python detect.py --weights {} --conf 0.1 --source {}
 ```
 Replacing the weights for './runs/train/exp/weights/best.pt' and source for your test data directory.
+
+# References
+https://github.com/ultralytics/yolov5
