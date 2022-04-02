@@ -1,4 +1,4 @@
-# NYCU_VRDL_Object_Detection
+# VRDL Lab2: Object Detection
 This is homework 2 in NYCU Selected Topics in Visual Recognition Deep Learning class.
 
 NOTIFICATION:
